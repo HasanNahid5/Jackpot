@@ -1,0 +1,1477 @@
+@media (min-width:1400px) {
+
+    /* menu part start */
+    .main_menu ul li a {
+        font-size: 20px;
+    }
+
+    /* menu part end */
+}
+
+@media (min-width:1200px) and (max-width:1399.98px) {
+    /* =================================
+               Game Page Start
+    =====================================*/
+
+    /* menu part start */
+    .main_menu ul li a {
+        font-size: 20px;
+    }
+
+    /* menu part end */
+    /* about game part start */
+
+    .about_game_col {
+        position: absolute;
+        top: -300px;
+        left: 20px;
+        width: 95.8%;
+    }
+
+    /* about game part end */
+
+    /* =================================
+               Game Page End
+    =====================================*/
+}
+
+@media (min-width:992px) and (max-width:1199.98px) {
+    /* =================================
+               Game Page Start
+    =====================================*/
+    /* about game part start */
+
+    .about_game_col {
+        top: -310px;
+    }
+
+    /* about game part end */
+
+    /* =================================
+               Game Page End
+    =====================================*/
+
+   
+}
+
+@media (min-width:768px) and (max-width:991.98px) {
+    /*=================================
+               Home Page Start
+     ================================= */
+
+    /* menu part start */
+    .main_menu a img {
+        width: 130px;
+        height: 82px;
+        margin-top: -15px;
+    }
+
+    .main_menu ul li a {
+        font-size: 9px;
+    }
+
+    .main_menu .button a {
+        padding: 10px 20px;
+        font-size: 14px;
+        margin: 30px 5px;
+    }
+
+    .main_menu ul li a {
+        font-size: 14px;
+    }
+
+    /* menu part end */
+
+
+    /* banner part start */
+    #banner_part {
+        padding: 158px 0 175px 0;
+    }
+
+    .banner_img img {
+        height: 360px;
+    }
+
+    .banner_text h1 {
+        font-size: 170px;
+        text-align: left;
+        margin-top: -15px;
+    }
+
+    .banner_text h3 {
+        font-size: 16px;
+    }
+
+    .banner_text p {
+        font-size: 14px;
+    }
+
+    .banner_text a {
+        padding: 10px 20px;
+        font-size: 18px;
+        margin: 20px auto;
+    }
+
+    /* banner part end */
+
+
+    /* game part start */
+
+    .game_box {
+        padding: 30px 0;
+    }
+
+    .game_col {
+        top: -190px;
+    }
+
+    .game_head h2 {
+        font-size: 35px;
+        padding-top: 15px;
+    }
+
+    #game_part {
+        background: #0b001b;
+        padding: 70px 0;
+        position: relative;
+    }
+
+    /* game part end */
+
+
+    /* claim part start */
+    #claim_part {
+        padding: 70px 0;
+    }
+
+    .claim_text {
+        margin-top: 0;
+    }
+
+    .claim_text h3 {
+        font-size: 35px;
+    }
+
+    .claim_text p {
+        font-size: 14px;
+        line-height: 24px;
+        padding-top: 20px;
+    }
+
+    .claim_text p span {
+        font-size: 14px;
+        line-height: 24px;
+        padding-top: 10px;
+    }
+
+    .claim_text a {
+        padding: 10px 20px;
+        font-size: 18px;
+        margin-top: 0px;
+    }
+
+    /* claim part end */
+
+    /* pricing part start */
+    #pricing_part {
+        padding: 70px 0;
+    }
+
+    .pricing_head h2 {
+        font-size: 35px;
+    }
+
+    .pricing_head {
+        margin-bottom: 40px;
+    }
+
+    .pricing_card h3 {
+        font-size: 28px;
+    }
+
+    .pricing_card h4 {
+        font-size: 30px;
+    }
+
+    .pricing_card ul li {
+        margin-top: 15px;
+        font-size: 14px;
+    }
+
+    .card_button {
+        width: 100%;
+    }
+
+    .pricing_card .card_button a {
+        font-size: 14px;
+    }
+
+    /* pricing part end */
+
+
+    /* tornament part start */
+    #tournament_part {
+        padding: 70px 0;
+    }
+
+    .tornament_head h2 {
+        font-size: 35px;
+    }
+
+    .tournament_left_inner span {
+        font-size: 14px;
+    }
+
+    .tournament_left_inner p {
+        font-size: 14px;
+    }
+
+    .tournament_left_inner {
+        margin-bottom: 15px;
+    }
+
+    .tornament_head h2 .effect {
+        bottom: -48px;
+    }
+
+    /* tornament part end */
+
+
+    /* payment part start */
+    #payment_part {
+        padding: 20px 0;
+    }
+
+    .payment_heading h2 {
+        font-size: 28px;
+    }
+
+    .payment_method a img {
+        width: 55px;
+    }
+
+    /* payment part end */
+
+
+    /* footer Page start */
+    .footer_about h2 {
+        font-size: 28px;
+    }
+
+    .footer_about p {
+        font-size: 14px;
+        padding-bottom: 20px;
+    }
+
+    .footer_about i {
+        font-size: 18px;
+        height: 45px;
+        width: 40px;
+        line-height: 45px;
+        margin-right: 5px;
+    }
+
+    .footer_about {
+        margin-bottom: 20px;
+    }
+
+    .footer_info_head h2 {
+        font-size: 28px;
+    }
+
+    .info_text li a {
+        font-size: 14px;
+        padding-bottom: 10px;
+    }
+
+    .footer_security_head h2 {
+        font-size: 28px;
+    }
+
+    .sec_text p {
+        font-size: 14px;
+    }
+
+    /* footer Page end */
+
+    /*=================================
+               Home Page end
+     ================================= */
+
+
+    /*=================================
+               About Page start
+     ================================= */
+
+    /* about banner part start */
+    .about_menu h2 {
+        font-size: 40px;
+    }
+
+    .about_inner a {
+        font-size: 22px;
+    }
+
+    #about_banner {
+        padding: 160px 0 190px;
+    }
+
+    .game_box h2 {
+        font-size: 40px;
+    }
+
+    .game_box h3 {
+        font-size: 26px;
+    }
+
+    .about_game_col {
+        top: -270px;
+    }
+
+    /* about banner part end */
+
+
+    /* about game part start */
+    #about_game {
+        padding: 160px 0 50px;
+    }
+
+    .about_game_text p {
+        font-size: 14px;
+        padding-top: 0;
+    }
+
+    .about_game_text .about_play {
+        padding: 10px 20px;
+        font-size: 16px;
+        margin: 20px 0;
+    }
+
+    .about_game_text .play_but i {
+        margin-left: 15px;
+    }
+
+    /* about game part end */
+
+
+    /* related game part start */
+    #related_game_part {
+        padding: 50px 0 85px;
+    }
+
+    .related_game h2 {
+        font-size: 35px;
+    }
+
+    .about_game_slider {
+        margin-top: -20px;
+    }
+
+    /* related game part end */
+
+
+    /*=================================
+               About Page end
+     ================================= */
+
+
+    /*=================================
+               Game Page start
+     ================================= */
+    /* about game part start */
+    .about_game_col {
+        top: -200px;
+    }
+
+    #about_game {
+        padding: 160px 0 100px;
+    }
+
+    /* about game part end */
+    /*=================================
+               Game Page end
+     ================================= */
+    /*=================================
+            Membership  Page start
+     ================================= */
+
+    /* member part start */
+    .member_card {
+        top: -100px;
+    }
+
+    /* member part end */
+
+    /* pricing part start */
+    .card_innner {
+        padding-top: 80px;
+    }
+
+    /* pricing part end */
+    /*=================================
+            Membership  Page end
+     ================================= */
+    /*=================================
+               Contact Page start
+     ================================= */
+    /* contact bg part start */
+    #contact_bg {
+        padding: 160px 0 80px 0;
+    }
+
+    .contact_game_col {
+        top: -260px;
+    }
+
+    .adress_icon i {
+        height: 80px;
+        width: 80px;
+        line-height: 80px;
+        font-size: 30px;
+        margin-right: 20px;
+    }
+
+    .adress_text h2 {
+        font-size: 20px;
+    }
+
+    .adress_text p {
+        font-size: 12px;
+    }
+
+    /* contact bg part end */
+    /*=================================
+               Contact Page end
+     ================================= */
+    /*=================================
+               Signup Page start
+     ================================= */
+    /* member part start */
+    #signup_part {
+        padding: 150px 0 70px;
+        background: #0b001b;
+    }
+
+    .signup_social h5 {
+        margin-right: 58px;
+    }
+
+    .signup_social a i {
+        ;
+        margin: 0 15px;
+    }
+
+    .signup_social::after {
+        right: 80px;
+    }
+
+    /* member part end */
+    /*=================================
+               Signup Page end
+     ================================= */
+    /*=================================
+               Login Page start
+     ================================= */
+
+    /*=================================
+               Login Page end
+     ================================= */
+}
+
+@media (min-width:576px) and (max-width:767.98px) {
+
+
+    /*=================================
+               Home Page Start
+     ================================= */
+
+
+    /* menu part start */
+    .navbar-toggler:not(:disabled):not(.disabled) {
+        outline: 0;
+    }
+
+    .main_menu .navbar-brand img {
+        width: 140px;
+        margin-top: -15px;
+        height: 77px;
+        margin-left: 2px;
+    }
+
+    .navbar button i {
+        color: #fcb100;
+        padding: 7px 10px;
+        border: 1px solid #fcb100;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+        margin-top: -7px;
+        margin-right: -9px;
+    }
+
+    .navbar .navbar-toggler:focus {
+        box-shadow: none !important;
+    }
+
+    .main_menu ul {
+        padding: 20px 0;
+        width: 100%;
+        text-align: center;
+        background: #000;
+        border-top: 1px solid #fcb100;
+    }
+
+    .main_menu ul li a {
+        font-size: 20px;
+        font-weight: 500;
+        color: #fff;
+        display: inline-block;
+        line-height: 30px;
+    }
+
+    .main_menu .button a {
+        display: none;
+    }
+
+
+    /* menu part end */
+
+
+    /* banner part start */
+    #banner_part {
+        padding: 120px 0 200px 0;
+    }
+
+    .banner_text h3 {
+        text-align: center;
+    }
+
+    .banner_text h1 {
+        font-size: 310px;
+        text-align: center;
+    }
+
+    .banner_text a {
+        font-size: 16px;
+        width: 118px;
+    }
+
+    .banner_text p {
+        padding: 0 5px;
+        margin-bottom: 7px;
+    }
+
+    /* banner part end */
+
+
+    /* game part start */
+    #game_part {
+        padding: 100px 0 50px;
+    }
+
+    .game_head {
+        margin-top: 30px;
+        margin-bottom: -20px;
+    }
+
+    .game_head h2 {
+        font-size: 28px;
+    }
+
+    .game_col {
+        top: -210px;
+    }
+
+    /* game part end */
+
+
+    /* claim part start */
+    #claim_part {
+        padding: 50px 0;
+    }
+
+    .claim_text {
+        margin-top: 0;
+    }
+
+    .claim_text h3 {
+        font-size: 28px;
+        text-align: center;
+    }
+
+    .claim_text p {
+        font-size: 14px;
+        line-height: 20px;
+        padding-top: 10px;
+        text-align: center;
+    }
+
+    .claim_text p span {
+        display: inline-block;
+        font-size: 14px;
+        line-height: 20px;
+        padding-top: 10px;
+        text-align: center;
+    }
+
+    .sm_align_center {
+        text-align: center;
+    }
+
+    .claim_text a {
+        padding: 10px 20px;
+        font-size: 18px;
+        margin-top: 20px;
+    }
+
+    /* claim part end */
+
+
+    /* pricing part start */
+    #pricing_part {
+        padding: 50px 0;
+        background: #0b001b;
+    }
+
+    .pricing_head h2 {
+        font-size: 28px;
+    }
+
+    .pricing_card {
+        padding: 30px 0;
+        margin-bottom: 60px;
+    }
+
+    .pricing_head h2 {
+        font-size: 30px;
+    }
+
+    .pricing_card {
+        padding: 30px 0;
+    }
+
+    .pricing_card h3 {
+        font-size: 24px;
+    }
+
+    .pricing_card h4 {
+        font-size: 30px;
+    }
+
+    .pricing_card p {
+        padding-bottom: 20px;
+    }
+
+    .pricing_card ul li {
+        margin-top: 15px;
+        font-size: 14px;
+    }
+
+    .pricing_card .card_button a {
+        padding: 10px 20px;
+        font-size: 16px;
+    }
+
+    /* pricing part end */
+
+
+    /* tournament part start */
+    #tournament_part {
+        padding: 50px 0;
+    }
+
+    .tornament_head h2 {
+        font-size: 28px;
+    }
+
+    .tournament_left_inner {
+        margin-bottom: 30px;
+    }
+
+    .countdown {
+        padding-top: 20px;
+    }
+
+    .payment_heading h2 {
+        font-size: 28px;
+    }
+
+    .payment_form {
+        margin-bottom: 15px;
+    }
+
+    /* tournament part end */
+
+
+    /* footer part start */
+    .footer_about h2 {
+        font-size: 28px;
+        padding-bottom: 10px;
+    }
+
+    .footer_about {
+        padding-bottom: 20px;
+    }
+
+    .footer_about p {
+        font-size: 14px;
+    }
+
+    .footer_about i {
+        font-size: 18px;
+        height: 45px;
+        width: 40px;
+        line-height: 45px;
+        margin-right: 5px;
+    }
+
+    .footer_info_head h2 {
+        font-size: 28px;
+        padding-bottom: 10px;
+    }
+
+    .footer_security_head h2 {
+        font-size: 28px;
+    }
+
+    .info_text li a {
+        padding-bottom: 0px;
+    }
+
+    /* footer part end */
+
+    /*=================================
+               Home Page End
+     ================================= */
+
+
+    /*=================================
+                About Page start
+     ================================= */
+
+
+    /* about banner part start */
+    #about_banner {
+        padding: 140px 0 160px;
+    }
+
+    .about_menu h2 {
+        font-size: 28px;
+    }
+
+    .about_inner a {
+        font-size: 20px;
+    }
+
+    /* about banner part end */
+
+
+    /* about game part start */
+    #about_game {
+        padding: 185px 0 50px;
+    }
+
+    .about_game_col {
+        top: -284px;
+        left: 10px;
+    }
+
+    .game_box h2 {
+        font-size: 40px;
+    }
+
+    .game_box h3 {
+        font-size: 25px;
+    }
+
+    .about_game_text .about_play {
+        padding: 10px 20px;
+        font-size: 18px;
+    }
+
+    /* about game part end */
+
+
+    /* related game part start */
+    #related_game_part {
+        padding: 50px 0 70px;
+    }
+
+    .related_game h2 {
+        font-size: 28px;
+    }
+
+    .about_game_slider {
+        margin-top: -15px;
+    }
+
+    /* related game part end */
+    /*=================================
+                About Page End
+     ================================= */
+
+
+    /*=================================
+               Game Page start
+     ================================= */
+
+    /* About game part start */
+    #about_game {
+        padding: 185px 0 100px;
+    }
+
+    .game_box {
+        padding: 45px 0;
+    }
+
+    /* About game part end */
+    /*=================================
+               Game Page end
+     ================================= */
+
+    /*=================================
+               Membership Page start
+     ================================= */
+    /* membership part start */
+    .about_game_col {
+        top: 20px;
+        left: 10px;
+    }
+
+    /* membership pricing part start */
+    #membership_pricing_part {
+        padding-top: 150px;
+        padding-bottom: 50px;
+    }
+
+    .card_innner {
+        padding-top: 0;
+    }
+
+    /* membership pricing part end */
+
+    /* membership part end */
+    /*=================================
+               Membership Page end
+     ================================= */
+    /*=================================
+               Contact Page start
+     ================================= */
+    /* contact bg part  start */
+    #contact_bg {
+        padding: 160px 0 70px 0;
+    }
+
+    .about_game_col {
+        top: -260px;
+    }
+
+    .contact_adress {
+        margin-bottom: 30px;
+    }
+
+    .adress_icon i {
+        height: 90px;
+        width: 90px;
+        line-height: 90px;
+        font-size: 35px;
+    }
+
+    /* contact bg part  end */
+    /*=================================
+               Contact Page end
+     ================================= */
+
+    /*=================================
+               Signup Page start
+     ================================= */
+    /* member part start */
+    .member_card {
+        top: 160px;
+    }
+
+    #signup_part {
+        padding: 150px 0 80px;
+        background: #0b001b;
+    }
+
+    /* member part end */
+    /* footer part start */
+    .signup_footer p {
+        font-size: 13px;
+    }
+
+    .signup_social a i {
+        font-size: 14px;
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        margin: 0 10px;
+    }
+
+    .signup_social h5 {
+        font-size: 13px;
+        margin-right: 30px;
+    }
+
+    .signup_social::after {
+        top: -3px;
+        right: 59px;
+    }
+
+    /* footer part end */
+    /*=================================
+               Signup Page end
+     ================================= */
+
+    /*=================================
+               Login Page start
+     ================================= */
+    .login_col{
+        top: -100px;
+    }
+
+    .login_footer p {
+        font-size: 13px;
+    }
+
+    /*=================================
+               Login Page end
+     ================================= */
+}
+
+@media (max-width:575.98px) {
+    /* body {
+        mask-repeat: repeat-x no-repeat;
+        overflow-x: hidden;
+    } */
+    body{
+        -webkit-mask-repeat-x: no-repeat !important;
+        overflow-x: hidden !important;
+    }
+
+    .menu_fix {
+        position: fixed !important;
+        left: 0;
+        top: 0;
+        width: 89%;
+        z-index: 999;
+        background: #0b001b;
+    }
+
+    /*=================================
+               Home Page Start
+     ================================= */
+
+    /* menu part start */
+    .navbar-toggler:not(:disabled):not(.disabled) {
+        outline: 0;
+    }
+
+    .main_menu .navbar-brand img {
+        width: 140px;
+        margin-top: -15px;
+        height: 77px;
+        margin-left: 2px;
+    }
+
+    .navbar button i {
+        color: #867140;
+        padding: 7px 10px;
+        border: 1px solid #fcb100;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+        margin-top: -7px;
+        margin-right: -9px;
+    }
+
+    .navbar .navbar-toggler:focus {
+        box-shadow: none !important;
+    }
+
+    .main_menu ul {
+        padding: 20px 0;
+        width: 100%;
+        text-align: center;
+        background: #000;
+        border-top: 1px solid #fcb100;
+    }
+
+    .main_menu ul li a {
+        color: #fff;
+        display: inline-block;
+        line-height: 30px;
+    }
+
+    .main_menu .button a {
+        padding: 7px 15px;
+        font-size: 18px;
+    }
+
+
+    /* menu part end */
+
+    /* banner part start */
+    #banner_part {
+        padding: 120px 0 140px 0;
+    }
+
+    .banner_text h3 {
+        text-align: center;
+        padding-bottom: 15px;
+    }
+
+    .banner_text h1 {
+        font-size: 200px;
+        text-align: center;
+    }
+
+    .banner_text a {
+        font-size: 16px;
+        width: 118px;
+    }
+
+    .banner_text p {
+        padding: 0 5px;
+        margin-bottom: 7px;
+    }
+
+    /* banner part end */
+
+    /* game part start */
+
+    #game_part {
+        padding: 150px 0 50px;
+    }
+
+    .game_box {
+        width: 100% !important;
+        padding: 30px 0;
+    }
+
+    .game_box h2 {
+        font-size: 30px;
+    }
+
+    .game_box h3 {
+        font-size: 20px;
+        padding-top: 10px;
+    }
+
+    .game_head {
+        margin-top: -50px;
+    }
+
+    .game_head h2 {
+        font-size: 30px;
+    }
+
+    .game_img {
+        margin-top: 30px;
+    }
+
+    .game_col {
+        left: 15px;
+        width: 90.8%;
+    }
+
+    /* game part end */
+
+    /* claim part start */
+
+    #claim_part {
+        padding: 50px 0;
+    }
+
+    .claim_text {
+        margin-top: 30px;
+    }
+
+    .claim_text h3 {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .claim_text p {
+        font-size: 14px;
+        padding-top: 20px;
+        text-align: center;
+    }
+
+    .claim_text p span {
+        padding-top: 10px;
+    }
+
+    .sm_align_center {
+        text-align: center;
+    }
+
+    .claim_text a {
+        padding: 10px 20px;
+        font-size: 18px;
+        margin-top: 15px;
+
+    }
+
+    /* claim part end */
+
+    /* Pricing part start */
+
+    #pricing_part {
+        padding: 50px 0;
+    }
+
+    .pricing_head {
+        margin-bottom: 50px;
+    }
+
+    .pricing_card {
+        padding: 30px 0;
+        margin-bottom: 60px;
+    }
+
+    .pricing_head h2 {
+        font-size: 30px;
+    }
+
+    .pricing_card {
+        padding: 30px 0;
+    }
+
+    .pricing_card h3 {
+        font-size: 24px;
+    }
+
+    .pricing_card h4 {
+        font-size: 30px;
+    }
+
+    .pricing_card p {
+        padding-bottom: 20px;
+    }
+
+    .pricing_card ul li {
+        margin-top: 15px;
+        font-size: 14px;
+    }
+
+    .pricing_card .card_button a {
+        padding: 10px 20px;
+        font-size: 16px;
+    }
+
+    /* Pricing part end */
+
+    /* tournament part start */
+    #tournament_part {
+        padding: 50px 0;
+    }
+
+    .tornament_head h2 {
+        font-size: 25px;
+    }
+
+    .tornament_head h2 .effect {
+        bottom: -43px;
+    }
+
+    .tournament_left_inner {
+        margin-bottom: 15px;
+    }
+
+    .time_zone {
+        width: 70px;
+        margin-top: -15px;
+    }
+
+    /* tournament part end */
+
+    /* payment part start */
+    .payment_heading h2 {
+        font-size: 25px;
+    }
+
+    .payment_form {
+        margin-bottom: 10px;
+    }
+
+    .payment_method {
+        padding-top: 15px;
+    }
+
+    .payment_method a {
+        padding-right: 0;
+    }
+
+    .payment_method a img {
+        width: 50px;
+    }
+
+    /* payment part end */
+
+    /* footer part start */
+    #footer_part {
+        padding: 30px 0;
+    }
+
+    .footer_about h2 {
+        font-size: 25px;
+    }
+
+    .footer_about i {
+        font-size: 18px;
+        height: 45px;
+        width: 40px;
+        margin-right: 7px;
+    }
+
+    .footer_info_head h2 {
+        font-size: 25px;
+        padding-bottom: 15px;
+        padding-top: 15px;
+    }
+
+    .footer_security_head h2 {
+        font-size: 25px;
+        padding-top: 10px;
+    }
+
+    .info_text li a {
+        font-size: 14px;
+        padding-bottom: 5px;
+    }
+
+    .foot_secu_text {
+        padding-bottom: 15px;
+    }
+
+    .footer_bottom p {
+        font-size: 13px;
+    }
+
+    @keyframes lineshine {
+        form {
+            left: 0;
+        }
+
+        to {
+            left: 80%;
+        }
+    }
+
+    /* footer part end */
+    /*=================================
+               Home Page end
+     ================================= */
+
+    /*=================================
+               About Page start
+     ================================= */
+    /* banner part start */
+    #about_banner {
+        padding: 125px 0 150px;
+    }
+
+    .about_menu h2 {
+        font-size: 26px;
+    }
+
+    .about_inner a {
+        font-size: 18px;
+    }
+
+    .about_game_col {
+        top: -220px;
+        left: 7px;
+    }
+
+    #about_game {
+        padding: 120px 0 150px;
+    }
+
+    .about_game_text p {
+        font-size: 15px;
+        padding-top: 30px;
+    }
+
+    .about_game_text p span {
+        padding-top: 15px;
+    }
+
+    .about_game_text .about_play {
+        padding: 10px 20px;
+        font-size: 15px;
+    }
+
+    .play_but span {
+        margin-left: 10px;
+    }
+
+    #about_game {
+        padding: 120px 0 50px;
+    }
+
+    /* banner part end */
+    /* related game part start */
+    #related_game_part {
+        padding: 50px 0 80px;
+    }
+
+    .related_game h2 {
+        font-size: 25px;
+    }
+
+    /* related game part end */
+
+    /*=================================
+               About Page end
+     ================================= */
+
+
+    /*=================================
+               Game Page start
+     ================================= */
+
+    /* about game part start */
+    #about_game {
+        padding: 150px 0 100px;
+    }
+
+    .about_game_col {
+        top: -250px;
+    }
+
+    /* about game part end */
+    /*=================================
+               Game Page end
+     ================================= */
+    /*=================================
+               Membership Page start
+     ================================= */
+    /* membership part start */
+    .member_card {
+        top: 160px;
+        left: 7px;
+    }
+
+    /* membership pricing part start */
+    #membership_pricing_part {
+        padding-top: 150px;
+        padding-bottom: 50px;
+    }
+
+    .card_innner {
+        padding-top: 0;
+    }
+
+    /* membership pricing part end */
+
+    /* membership part end */
+    /*=================================
+               Membership Page end
+     ================================= */
+
+    /*=================================
+                 Contact Page start
+    /*=================================
+    
+             
+      /* about game part start */
+    .about_game_col {
+        top: -225px;
+    }
+
+    /* about game part end */
+
+    /* contact part start */
+    #contact_bg {
+        padding: 150px 0 50px 0;
+    }
+
+    .adress_icon i {
+        height: 70px;
+        width: 70px;
+        line-height: 70px;
+        font-size: 30px;
+    }
+
+    .adress_text h2 {
+        font-size: 20px;
+    }
+
+    .contact_adress {
+        margin-bottom: 25px;
+    }
+
+    .adress_text p {
+        font-size: 14px;
+    }
+
+    /* contact part end
+
+     /*=================================
+               Contact Page end
+    /*=================================
+    
+
+
+     ================================= */
+    /*=================================
+               Signup Page start
+     ================================= */
+    /* signup part start */
+    #signup_part {
+        padding: 115px 0 50px;
+        background: #0b001b;
+    }
+
+    .sign_up_pad h4 {
+        font-size: 24px;
+    }
+
+    .sign_up_inner button {
+        padding: 10px 30px;
+    }
+
+    .signup_footer p {
+        font-size: 16px;
+        line-height: 0;
+    }
+
+    .signup_social a i {
+        font-size: 14px;
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        margin: 8px 23px;
+    }
+
+    .signup_social::after {
+        top: 9px;
+        right: 93px;
+        height: 75%;
+    }
+
+    /* signup part end */
+    /*=================================
+               Signup Page end
+     ================================= */
+
+    /*=================================
+               Login Page start
+     ================================= */
+    /* .about_game_col {
+        top: -100px;
+    } */
+    .login_col{
+        top: -100px;
+    }
+
+    /*=================================
+               Login Page end
+     ================================= */
